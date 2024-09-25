@@ -25,8 +25,6 @@ pip install -r requirements_seq2seq.txt
 We provide pipeline scripts to use our model, including the process of preprocessing->training->inference. Please refer to
 `./models/seq2edit-based-CGEC/pipeline.sh` and `./models/seq2seq-based-CGEC/pipeline.sh`
 
-Besides, we also provide converged checkpoints for testing (the following metrics are precision/recall/F0.5):
-
 The ensemble strategy used in our paper can be found in `./scorers/ChERRANT/ensemble.sh`. Please kindly note that above seq2edit checkpoints are based on `Chinese-StructBERT-large` and seq2seq checkpoints are based on `Chinese-BART-Large`.
 
 
