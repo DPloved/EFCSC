@@ -34,7 +34,7 @@ The ensemble strategy used in our paper can be found in `./scorers/ChERRANT/ense
 
 To get the evaluation results on the [Official NLPCC18 dataset](http://tcci.ccf.org.cn/conference/2018/taskdata.php), you can make predictions by using our benchmark models, and evaluate the results through [M2Scorer](https://github.com/nusnlp/m2scorer). It is important to note that the predicted results must be segmented using the PKUSEG tool.
 
-To get the evaluation results on MuCGEC, you can evaluate the results through our proposed [ChERRANT](./scorers/ChERRANT). Please refer to `./scorers/ChERRANT/demo.sh` for the use of ChERRANT.
+You can evaluate the results through our proposed [ChERRANT](./scorers/ChERRANT). Please refer to `./scorers/ChERRANT/demo.sh` for the use of ChERRANT.
 
 
 
