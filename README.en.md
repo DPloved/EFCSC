@@ -1,40 +1,4 @@
-# MuCGEC: A Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction & SOTA Models
 
-
-English | [简体中文](README.md)
-
-## News
-+ Our new work SynGEC has been accepted by EMNLP2022. In this paper, we propose a SynGEC model that can utilize GEC-oriented tailored syntax and get SOTA performance (e.g., 45.32/46.51 F0.5 scores on NLPCC-18 and MuCGEC-Test), respectively. Welcome to test it! Link: [[Link]](https://github.com/HillZhang1999/SynGEC) 
-
-+ We have uploaded the full MuCGEC dataset to this [link](https://github.com/HillZhang1999/MuCGEC/tree/main/data/MuCGEC) and opened a leaderboard at [Tianchi Platform](https://tianchi.aliyun.com/dataset/dataDetail?dataId=131328#4), welcome to submit your results!
-
-+ We have released a part of MuCGEC dataset at [Tianchi Platform](https://tianchi.aliyun.com/dataset/dataDetail?dataId=131328), welcome to download and test!
-
-## Citation
-If you find this work is useful for your research, please cite our paper:
-
-#### MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction (Accepted by NAACL2022 main conference) [[PDF]](https://aclanthology.org/2022.naacl-main.227.pdf)
-
-```
-@inproceedings{zhang-etal-2022-mucgec,
-    title = "{M}u{CGEC}: a Multi-Reference Multi-Source Evaluation Dataset for {C}hinese Grammatical Error Correction",
-    author = "Zhang, Yue  and
-      Li, Zhenghua  and
-      Bao, Zuyi  and
-      Li, Jiacheng  and
-      Zhang, Bo  and
-      Li, Chen  and
-      Huang, Fei  and
-      Zhang, Min",
-    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
-    month = jul,
-    year = "2022",
-    address = "Seattle, United States",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2022.naacl-main.227",
-    pages = "3118--3130",
-    }
-```
 
 ## Introduction
 
