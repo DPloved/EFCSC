@@ -3,9 +3,7 @@
 
 + **CGEC benchmark models`./models`**:
   + **Seq2Edit model`./models/seq2edit-based-CGEC`**: This kind of models treats GEC as a sequence labeling task and performs error corrections via a sequence of token-level edits, including insertion, deletion, and substitution.
-    +  With minor modifications to accommodate Chinese, we adopt [GECToR](https://github.com/grammarly/gector), which achieves the SOTA performance on English GEC datasets.
   + **Seq2Seq model`./models/seq2seq-based-CGEC`**：This kind of models straightforwardly treats GEC as a monolingual translation task
-    + We fine-tune the recently-proposed Seq2Seq pretrained model [Chinese-BART](https://github.com/fastnlp/CPT) and use it in CGEC.
   + **Ensemble model`./scorers/ChERRANT/emsemble.sh`**：We adopt a simple edit-wise vote mechanism, which can support the ensemble of heterogeneous models (such as Seq2Seq and Seq2Edit) and lead to significant performance boosts.
 
 
