@@ -33,12 +33,14 @@ pip install -r requirements_seq2edit.txt
 Seq2Seq Models:
 
 | Name | Download Link | Description |
+
 | **Bart-Base-Chinese** | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model|
 
 
 SeqEdit Models:
 
 | Name | Download Link | Description |
+
 | **StructBert-Large-Chinese** | [Link](https://huggingface.co/junnyu/structbert-large-zh) | Seq2Edit-based Pre-trained Model|
 
 
