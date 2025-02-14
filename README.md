@@ -34,16 +34,14 @@ Seq2Seq Model:
 
 | Name       | Download Link | Description |
 |------------|---------------|-------------|
-| Bart-Base-Chinese | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model |
-| **Bart-Base-Chinese** | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model|
+| **Bart-Base-Chinese** | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-Trained Model|
 
 
 SeqEdit Model:
 
 | Name       | Download Link | Description |
 |------------|---------------|-------------|
-| Bart-Base-Chinese | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model |
-| **StructBert-Large-Chinese** | [Link](https://huggingface.co/junnyu/structbert-large-zh) | Seq2Edit-based Pre-trained Model |
+| **StructBert-Large-Chinese** | [Link](https://huggingface.co/junnyu/structbert-large-zh) | Seq2Edit-based Pre-Trained Model |
 
 
 # How to Train
