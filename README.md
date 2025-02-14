@@ -37,6 +37,7 @@ Seq2Seq Models:
 
 
 SeqEdit Models:
+
 | Name | Download Link | Description |
 | **StructBert-Large-Chinese** | [Link](https://huggingface.co/junnyu/structbert-large-zh) | Seq2Edit-based Pre-trained Model|
 
