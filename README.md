@@ -77,7 +77,7 @@ We have now exposed the validation dataset and the test dataset, which can be do
 
 | Name | Number | Errors | usage|
 | :------- | :---------: | :---------: |:---------: |
-| EFCSC | 1200000 | 1857304 | Pre-training|
+| EFCSC | 1200000 | 1857304 | Pre-Training|
 | EFCSC-dev | 4000 | 4035 | Validation|
 | EFCSC-test | 2500 | 2019 | Testing |
 
