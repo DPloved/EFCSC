@@ -52,7 +52,7 @@ You can use the following commands to train and predict:
 sh pipeline.sh
 ```
 
-# How to ensemble
+# How to Ensemble
 
 If you want to ensemble the multiple results to obtain the best results, please follow the instructions in `./scorers/ChERRANT/emsemble.sh`:
 
