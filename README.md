@@ -13,14 +13,14 @@ We propose an construct an entity-focused Chinese spelling correction dataset (E
 
 You can use the following commands to install the environment for EFCSC:
 
-Seq2Seq
+Seq2Edit
 ```
 conda create -n Seq2Seq python==3.8
 conda activate Seq2Seq
 pip install -r requirements_seq2edit.txt
 ```
 
-Seq2Edit
+Seq2Seq
 ```
 conda create -n seq2edit python==3.8
 conda activate seq2edit
@@ -69,9 +69,13 @@ sh ensemble.sh
 We have now exposed the verification set and the test set, which can be downloaded in "".
 
 | Name | Number | Errors | Usage|
+
 | EFCSC |1200000|1857304|Pre-training|
+
 | EFCSC-dev |4000|4035|Validation|
+
 | EFCSC-test |4000|2019|Testing|
+
 
 
 
