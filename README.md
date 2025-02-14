@@ -69,7 +69,7 @@ sh ensemble.sh
 
 # About EFCSC Dataset
 
-We have now exposed the validation dataset and the test dataset, which can be downloaded in "".
+We have now exposed the validation dataset and the test dataset, which can be downloaded in "data".
 
 
 
