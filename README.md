@@ -59,9 +59,9 @@ sh pipeline.sh
 
 If you want to ensemble the multiple results to obtain the best results, please follow the instructions in `./scorers/ChERRANT/emsemble.sh`:
 
-+ `emsemble.sh`: ensemble multiple model outputs results to one.
++ `ensemble.sh`: ensemble multiple model outputs results to one.
 
-You can use the following commands to ensemble:
+You can use the following commands to the ensemble:
 
 ```
 sh ensemble.sh
