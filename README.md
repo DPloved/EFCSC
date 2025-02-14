@@ -17,14 +17,14 @@ Seq2Seq
 ```
 conda create -n Seq2Seq python==3.8
 conda activate Seq2Seq
-pip install -r requirements_seq2edit.txt
+pip install -r requirements_seq2seq.txt
 ```
 
 Seq2Edit
 ```
 conda create -n seq2edit python==3.8
 conda activate seq2edit
-pip install -r requirements_Seq2Seq.txt
+pip install -r requirements_seq2edit.txt
 ```
 
 
