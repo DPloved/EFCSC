@@ -66,15 +66,15 @@ sh ensemble.sh
 
 # About EFCSC Dataset
 
-We have now exposed the verification set and the test set, which can be downloaded in "".
+We have now exposed the validation dataset and the test dataset, which can be downloaded in "".
 
-| Name | Number | Errors | Usage|
+| Name | Number | Errors | Usage |
 
-| EFCSC |1200000|1857304|Pre-training|
+| EFCSC | 1200000 | 1857304 | Pre-training |
 
-| EFCSC-dev |4000|4035|Validation|
+| EFCSC-dev | 4000 | 4035 | Validation |
 
-| EFCSC-test |4000|2019|Testing|
+| EFCSC-test | 2500 | 2019 | Testing |
 
 
 
