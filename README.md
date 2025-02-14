@@ -32,15 +32,17 @@ pip install -r requirements_seq2edit.txt
 
 Seq2Seq Model:
 
-| Name | Download Link | Description |
-
+| Name       | Download Link | Description |
+|------------|---------------|-------------|
+| Bart-Base-Chinese | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model |
 | **Bart-Base-Chinese** | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model|
 
 
 SeqEdit Model:
 
-| Name | Download Link | Description |
-
+| Name       | Download Link | Description |
+|------------|---------------|-------------|
+| Bart-Base-Chinese | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model |
 | **StructBert-Large-Chinese** | [Link](https://huggingface.co/junnyu/structbert-large-zh) | Seq2Edit-based Pre-trained Model |
 
 
@@ -73,11 +75,11 @@ We have now exposed the validation dataset and the test dataset, which can be do
 
 
 
-| Name | Number | Errors | 
-| :------- | :---------: | :---------: |
-| EFCSC | 1200000 | 1857304 |
-| EFCSC-dev | 4000 | 4035 | 
-| EFCSC-test | 2500 | 2019 | 
+| Name | Number | Errors | usage|
+| :------- | :---------: | :---------: |:---------: |
+| EFCSC | 1200000 | 1857304 | Pre-training|
+| EFCSC-dev | 4000 | 4035 | Validation|
+| EFCSC-test | 2500 | 2019 | Testing |
 
 
 
