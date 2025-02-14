@@ -68,22 +68,13 @@ sh ensemble.sh
 
 We have now exposed the validation dataset and the test dataset, which can be downloaded in "".
 
-| Name | Number | Errors | 
-
-| EFCSC | 1200000 | 1857304 | Pre-training |
-
-| EFCSC-dev | 4000 | 4035 | Validation |
-
-| EFCSC-test | 2500 | 2019 | Testing |
-
 
 
 | Name | Number | Errors | 
 | :------- | :---------: | :---------: |
 | EFCSC | 1200000 | 1857304 |
-| EFCSC-dev | 4000 | 4035 | Validation |
+| EFCSC-dev | 4000 | 4035 | 
+| EFCSC-test | 2500 | 2019 | 
 
-| EFCSC-test | 2500 | 2019 | Testing |
-| **SynGEC-BART-en** | [Link](https://drive.google.com/file/d/1XQympc0S3DueAjrT0SubQAYU9o0VlP7v/view?usp=sharing) | SynGEC Model Enhanced with BART |
 
 
