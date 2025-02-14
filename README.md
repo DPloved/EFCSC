@@ -68,7 +68,7 @@ sh ensemble.sh
 
 We have now exposed the validation dataset and the test dataset, which can be downloaded in "".
 
-| Name | Number | Errors | Usage |
+| Name | Number | Errors | 
 
 | EFCSC | 1200000 | 1857304 | Pre-training |
 
@@ -78,11 +78,12 @@ We have now exposed the validation dataset and the test dataset, which can be do
 
 
 
-| Name | Download Link | Description |
+| Name | Number | Errors | 
 | :------- | :---------: | :---------: |
-| **Transformer-en** | [Link](https://drive.google.com/file/d/1uCjMuRPwJqLdU35MARHnd5otpyQVJDpu/view?usp=sharing) | Transformer-based GEC Model |
-| **SynGEC-en** | [Link](https://drive.google.com/file/d/1kG1yTy3KrMba0Pr1oVsqcCwC4RxdnNeZ/view?usp=sharing) | SynGEC Model based on Transformer|
-| **BART-en** | [Link](https://drive.google.com/file/d/1lTensE8ceSAA0y4vick57uJjJS3IQSpE/view?usp=sharing) | BART-based GEC Model|
+| EFCSC | 1200000 | 1857304 |
+| EFCSC-dev | 4000 | 4035 | Validation |
+
+| EFCSC-test | 2500 | 2019 | Testing |
 | **SynGEC-BART-en** | [Link](https://drive.google.com/file/d/1XQympc0S3DueAjrT0SubQAYU9o0VlP7v/view?usp=sharing) | SynGEC Model Enhanced with BART |
 
 
