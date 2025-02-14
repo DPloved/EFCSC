@@ -30,18 +30,18 @@ pip install -r requirements_seq2edit.txt
 
 # How to Download Pre-trained Models
 
-Seq2Seq Models:
+Seq2Seq Model:
 
 | Name | Download Link | Description |
 
 | **Bart-Base-Chinese** | [Link](https://huggingface.co/fnlp/bart-base-chinese) | Seq2Seq-based Pre-trained Model|
 
 
-SeqEdit Models:
+SeqEdit Model:
 
 | Name | Download Link | Description |
 
-| **StructBert-Large-Chinese** | [Link](https://huggingface.co/junnyu/structbert-large-zh) | Seq2Edit-based Pre-trained Model|
+| **StructBert-Large-Chinese** | [Link](https://huggingface.co/junnyu/structbert-large-zh) | Seq2Edit-based Pre-trained Model |
 
 
 # How to Train
